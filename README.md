@@ -1,5 +1,5 @@
 Aplicacion de Biblioteca Estudiantil 
-Adaptacion realizada por William Mosquera.
+Adaptacion realizada por William Mosquera Empleando  Node.js y Hosting de Heroku.
 
 This web application creates an online catalog for a small local library, where users can browse available books and manage their accounts.
 
